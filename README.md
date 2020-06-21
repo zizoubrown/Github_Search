@@ -1,6 +1,15 @@
-# GithubSearch
+# Project Name
+- GithubSearch
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+## Decription
+- a website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories.
+
+## Author
+- Abdul Aziz Ali
+
+## Technology used
+- Angular cli
+- Typecript
 
 ## Development server
 
